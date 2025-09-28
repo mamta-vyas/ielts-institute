@@ -4,7 +4,7 @@ A modern, responsive ReactJS homepage for a fictional IELTS coaching institute. 
 
 ## Live Demo
 
-> Add your deployed site URL here once deployed (e.g., Vercel, Netlify)
+> https://endearing-kitsune-dad83b.netlify.app/
 
 ## Features
 
@@ -47,8 +47,7 @@ git clone https://github.com/your-username/educonnect-ielts.git
 cd educonnect-ielts
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Create a .env file for EmailJS (optional):
 
@@ -59,14 +58,10 @@ VITE_TEMPLATE_ID=your_template_id
 VITE_PUBLIC_KEY=your_public_key
 Start the development server:
 
-bash
-Copy code
 npm run dev
 Deployment
 You can deploy on Netlify, Vercel, or any static hosting:
 
-bash
-Copy code
 npm run build
 Upload the dist folder to your hosting platform.
 
